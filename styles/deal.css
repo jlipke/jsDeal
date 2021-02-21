@@ -1,0 +1,19 @@
+#cardDisplay{
+	/*border: 1px solid gray;*/
+	height: 240px;
+	width: 850px;
+}
+.hand {
+    display: inline-block;
+    /*border:  1px solid red;*/
+    height: 240px;
+    width: 200px;
+}
+
+#btnHeart, #btnSpade, #btnClub, #btnDiamond{
+	padding: 5px;
+    margin: 20px 90px 50px 50px;
+	text-align: center;
+}
+
+
